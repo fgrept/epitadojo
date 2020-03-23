@@ -18,6 +18,7 @@ public class CodeWars1 {
 
     }
 
+    
     public static String expanSion (String s) {
         char[] tabIn = s.toCharArray();
         String texteNew = new String();
